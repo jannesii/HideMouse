@@ -1,0 +1,15 @@
+{
+    "GAME_EXE_NAME": "Trackmania.exe",
+    "HOTKEY_SC": 78,
+    "DEACTIVATION_HOTKEY_SC": 71,
+    "FROZEN_COORDS": [
+        3439,
+        830
+    ],
+    "UNFROZEN_COORDS": [
+        1720,
+        830
+    ],
+    "POSITION_CHECK_INTERVAL": 0.01,
+    "FOCUS_CHECK_INTERVAL": 1.0
+}

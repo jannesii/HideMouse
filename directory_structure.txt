@@ -1,0 +1,19 @@
+├── config
+│   └── config.json
+├── src
+│   └── mouse_hider
+│       ├── gui
+│       │   ├── config_page.py
+│       │   ├── main_window.py
+│       │   ├── process_page.py
+│       │   └── utils.py
+│       ├── __init__.py
+│       ├── config.py
+│       ├── focus_watcher.py
+│       ├── hotkey_handler.py
+│       ├── mouse_freezer.py
+│       └── utils.py
+├── dir_struct.py
+├── main.py
+├── main.spec
+└── test.py
