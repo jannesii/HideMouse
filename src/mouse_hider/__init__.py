@@ -27,16 +27,13 @@ def main(stop_event: Event | None = None):
     )
 
     def _on_hotkey():
+        logger.info("Activation hotkey pressed")
         if focus_watcher.game_focused:
-            logger.info("test")
             freezer.toggle()
-        else:
-            logger.info(
-                f"{config.GAME_EXE_NAME} not focused, mouse not frozen")
 
     def _on_deactivation_hotkey():
+        logger.info("Deactivation hotkey pressed")
         if focus_watcher.game_focused:
-            logger.info("Deactivating mouse hider")
             freezer.unfreeze()
 
     activation_handler = HotkeyHandler(
@@ -49,7 +46,8 @@ def main(stop_event: Event | None = None):
         on_press=_on_deactivation_hotkey,
         on_release=lambda: None
     )
-
+    same = activation_handler == deactivation_handler
+    logger.info(f"Hotkeys are the same: {same}")
     def update_all_configs(config, field, old, new):
         FocusWatcher().update_config()
         MouseFreezer().update_config()

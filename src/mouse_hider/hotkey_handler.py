@@ -16,8 +16,6 @@ class HotkeyHandler:
         self._held = False
         self.on_press = on_press
         self.on_release = on_release
-        
-        self.start()
 
     @handle_errors
     def update_config(self):
@@ -28,6 +26,7 @@ class HotkeyHandler:
 
     @handle_errors
     def start(self):
+        logger.debug(f"Starting hotkey handler for {self.hotkey} with scan code {self.scan_code}")
         on_press_key(self.scan_code,   self._wrap_press,   suppress=False)
         on_release_key(self.scan_code, self._wrap_release, suppress=False)
 
