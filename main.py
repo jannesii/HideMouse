@@ -27,12 +27,36 @@ logging.basicConfig(
     #filemode="a",
 )
 
+def restart_scheduled_task(task_path: str) -> None:
+    """
+    Stops the named Scheduled Task if it’s running, then starts it.
+    `task_path` should be like r"\MyTasks\Hide Mouse".
+    """
+    # 1. Try to end it (will fail harmlessly if it's not running)
+    subprocess.run(
+        ["schtasks", "/End", "/TN", task_path],
+        check=False,
+        stdout=subprocess.PIPE,
+        stderr=subprocess.PIPE,
+        text=True
+    )
+
+    # 2. Now start it
+    result = subprocess.run(
+        ["schtasks", "/Run", "/TN", task_path],
+        check=True,
+        stdout=subprocess.PIPE,
+        stderr=subprocess.PIPE,
+        text=True
+    )
+    print(f"Task {task_path!r} restarted. schtasks output:\n{result.stdout.strip()}")
+
 # ───────── helper: spawn new instance & exit this one ─────────
 def _restart_self(app: QApplication, stop_event: Event) -> None:
     """Launch a new copy of this program, then shut down gracefully."""
     logging.info("Restart requested – spawning replacement instance …")
-
-    python = sys.executable
+    restart_scheduled_task(r"\MyTasks\Hide Mouse")
+    """ python = sys.executable
     script = os.path.abspath(sys.argv[0])
     args   = sys.argv[1:]
 
@@ -42,7 +66,7 @@ def _restart_self(app: QApplication, stop_event: Event) -> None:
         cwd=os.getcwd(),
         close_fds=True,
         creationflags=flags,
-    )
+    ) """
 
     # Tell the worker thread to finish and close the GUI after the event loop ticks
     stop_event.set()
