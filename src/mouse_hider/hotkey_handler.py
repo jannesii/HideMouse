@@ -38,19 +38,23 @@ class HotkeyHandler:
     def start(self):
         logger.debug(
             f"Starting hotkey handler for {self.hotkey} with scan code {self.scan_code}")
-        if self.scan_code is not None:
-            self._press_hook = on_press_key(
-                self.scan_code,   self._wrap_press,   suppress=False)
-            self._release_hook = on_release_key(
-                self.scan_code, self._wrap_release, suppress=False)
+        if self.scan_code is None:
+            return
+        must_block = self.hotkey == "SPACE_HOTKEY_SC"
+        self._press_hook = on_press_key(
+            self.scan_code,   self._wrap_press,   suppress=must_block)
+        self._release_hook = on_release_key(
+            self.scan_code, self._wrap_release, suppress=must_block)
 
-    @handle_errors
     def _wrap_press(self, event):
         if not self._held:
             self._held = True
-            self.on_press()
+            if self.on_press:                    # might return True / False
+                return bool(self.on_press(event)) if self.on_press else True
+        return False                              # let it through otherwise
 
-    @handle_errors
     def _wrap_release(self, event):
         self._held = False
-        self.on_release()
+        if self.on_release:
+            return bool(self.on_release(event)) if self.on_release else True
+        return True

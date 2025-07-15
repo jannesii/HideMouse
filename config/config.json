@@ -2,6 +2,9 @@
     "GAME_EXE_NAME": "Trackmania.exe",
     "HOTKEY_SC": 78,
     "DEACTIVATION_HOTKEY_SC": 71,
+    "SPACE_HOTKEY_SC": 57,
+    "Q_SCAN_CODE": 16,
+    "E_SCAN_CODE": 18,
     "FROZEN_COORDS": [
         3439,
         830

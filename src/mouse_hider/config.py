@@ -20,6 +20,9 @@ class Config(metaclass=SingletonMeta):
     GAME_EXE_NAME: str
     HOTKEY_SC: int
     DEACTIVATION_HOTKEY_SC: int
+    SPACE_HOTKEY_SC: int
+    Q_SCAN_CODE: int
+    E_SCAN_CODE: int
     FROZEN_COORDS: tuple[int, int]
     UNFROZEN_COORDS: tuple[int, int]
     POSITION_CHECK_INTERVAL: float

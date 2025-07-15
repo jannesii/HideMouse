@@ -147,6 +147,14 @@ class ConfigPage(QWidget):
         self.deactivation_button.clicked.connect(
             self._toggle_deactivation_recording)
 
+        # Display-only key recorder
+        self.display_recorder = HotkeyRecorder()
+        self.display_recorder.key_pressed.connect(self._on_display_key)
+        self.display_input = QLineEdit(self)
+        self.display_input.setReadOnly(True)
+        self.display_button = QPushButton("Show Key Code", self)
+        self.display_button.clicked.connect(self._toggle_display_recording)
+
         layout = QVBoxLayout(self)
         layout.addWidget(QLabel("Activation Hotkey:"))
         layout.addWidget(self.input)
@@ -154,11 +162,31 @@ class ConfigPage(QWidget):
         layout.addWidget(QLabel("Deactivation Hotkey:"))
         layout.addWidget(self.deactivation_input)
         layout.addWidget(self.deactivation_button)
+        layout.addWidget(QLabel("Display Key Code:"))
+        layout.addWidget(self.display_input)
+        layout.addWidget(self.display_button)
 
         self._recording = False
         self._deactivation_recording = False
+        self._display_recording = False
 
         return layout
+
+    def _toggle_display_recording(self):
+        if not self._display_recording:
+            self.display_input.clear()
+            self.display_recorder.start()
+            self.display_button.setText("Stop Display")
+            self._display_recording = True
+        else:
+            self.display_recorder.stop()
+            self.display_button.setEnabled(False)
+
+    def _on_display_key(self, key):
+        # Show key name and code in display_input
+        keys, codes = self.parse_hotkeys(self.display_recorder.keys)
+        if keys and codes:
+            self.display_input.setText(f"{keys[-1]} (code: {codes[-1]})")
 
     def _save_config(self):
         exe_name = self.input_exe_name.text()
