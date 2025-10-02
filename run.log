@@ -1,0 +1,573 @@
+23:49:28 INFO src.mouse_hider.config: Loading config from: config/config.json
+23:49:28 DEBUG src.mouse_hider.hotkey_handler: Starting hotkey handler for HOTKEY_SC with scan code 78
+23:49:29 DEBUG src.mouse_hider.hotkey_handler: Starting hotkey handler for DEACTIVATION_HOTKEY_SC with scan code 71
+23:49:29 INFO src.mouse_hider: Hotkeys are the same: False
+23:49:29 INFO src.mouse_hider: Ready. NumPad / toggles freeze (only while Trackmania.exe runs).
+23:49:29 INFO src.mouse_hider: Frozen \u2192 [3439, 830] | Unfrozen \u2192 [1720, 830]
+23:49:29 INFO src.mouse_hider: Exit with Ctrl+C.
+00:21:00 INFO src.mouse_hider.config: Loading config from: config/config.json
+00:21:00 DEBUG src.mouse_hider.hotkey_handler: Starting hotkey handler for HOTKEY_SC with scan code 78
+00:21:01 DEBUG src.mouse_hider.hotkey_handler: Starting hotkey handler for DEACTIVATION_HOTKEY_SC with scan code 71
+00:21:01 INFO src.mouse_hider: Hotkeys are the same: False
+00:21:01 INFO src.mouse_hider: Ready. NumPad / toggles freeze (only while Trackmania.exe runs).
+00:21:01 INFO src.mouse_hider: Frozen \u2192 [3439, 830] | Unfrozen \u2192 [1720, 830]
+00:21:01 INFO src.mouse_hider: Exit with Ctrl+C.
+00:21:08 INFO root: Restart requested – spawning replacement instance …
+00:21:09 INFO src.mouse_hider.config: Loading config from: config/config.json
+00:21:09 DEBUG src.mouse_hider.hotkey_handler: Starting hotkey handler for HOTKEY_SC with scan code 78
+00:21:09 DEBUG src.mouse_hider.hotkey_handler: Starting hotkey handler for DEACTIVATION_HOTKEY_SC with scan code 71
+00:21:09 INFO src.mouse_hider: Hotkeys are the same: False
+00:21:09 INFO src.mouse_hider: Ready. NumPad / toggles freeze (only while Trackmania.exe runs).
+00:21:09 INFO src.mouse_hider: Frozen \u2192 [3439, 830] | Unfrozen \u2192 [1720, 830]
+00:21:09 INFO src.mouse_hider: Exit with Ctrl+C.
+00:21:29 INFO root: Restart requested – spawning replacement instance …
+00:21:29 INFO src.mouse_hider.config: Loading config from: config/config.json
+00:21:29 DEBUG src.mouse_hider.hotkey_handler: Starting hotkey handler for HOTKEY_SC with scan code 78
+00:21:29 DEBUG src.mouse_hider.hotkey_handler: Starting hotkey handler for DEACTIVATION_HOTKEY_SC with scan code 71
+00:21:29 INFO src.mouse_hider: Hotkeys are the same: False
+00:21:29 INFO src.mouse_hider: Ready. NumPad / toggles freeze (only while Trackmania.exe runs).
+00:21:29 INFO src.mouse_hider: Frozen \u2192 [3439, 830] | Unfrozen \u2192 [1720, 830]
+00:21:29 INFO src.mouse_hider: Exit with Ctrl+C.
+00:22:56 INFO root: Restart requested – spawning replacement instance …
+00:22:57 INFO src.mouse_hider.config: Loading config from: config/config.json
+00:22:57 DEBUG src.mouse_hider.hotkey_handler: Starting hotkey handler for HOTKEY_SC with scan code 78
+00:22:58 DEBUG src.mouse_hider.hotkey_handler: Starting hotkey handler for DEACTIVATION_HOTKEY_SC with scan code 71
+00:22:58 INFO src.mouse_hider: Hotkeys are the same: False
+00:22:58 INFO src.mouse_hider: Ready. NumPad / toggles freeze (only while Trackmania.exe runs).
+00:22:58 INFO src.mouse_hider: Frozen \u2192 [3439, 830] | Unfrozen \u2192 [1720, 830]
+00:22:58 INFO src.mouse_hider: Exit with Ctrl+C.
+11:17:49 INFO src.mouse_hider.config: Loading config from: config/config.json
+11:17:50 DEBUG src.mouse_hider.hotkey_handler: Starting hotkey handler for HOTKEY_SC with scan code 78
+11:17:50 DEBUG src.mouse_hider.hotkey_handler: Starting hotkey handler for DEACTIVATION_HOTKEY_SC with scan code 71
+11:17:50 INFO src.mouse_hider: Hotkeys are the same: False
+11:17:50 INFO src.mouse_hider: Ready. NumPad / toggles freeze (only while Trackmania.exe runs).
+11:17:50 INFO src.mouse_hider: Frozen \u2192 [3439, 830] | Unfrozen \u2192 [1720, 830]
+11:17:50 INFO src.mouse_hider: Exit with Ctrl+C.
+11:18:39 INFO root: Restart requested – spawning replacement instance …
+11:18:39 INFO src.mouse_hider.config: Loading config from: config/config.json
+11:18:40 DEBUG src.mouse_hider.hotkey_handler: Starting hotkey handler for HOTKEY_SC with scan code 78
+11:18:40 DEBUG src.mouse_hider.hotkey_handler: Starting hotkey handler for DEACTIVATION_HOTKEY_SC with scan code 71
+11:18:40 INFO src.mouse_hider: Hotkeys are the same: False
+11:18:40 INFO src.mouse_hider: Ready. NumPad / toggles freeze (only while Trackmania.exe runs).
+11:18:40 INFO src.mouse_hider: Frozen \u2192 [3439, 830] | Unfrozen \u2192 [1720, 830]
+11:18:40 INFO src.mouse_hider: Exit with Ctrl+C.
+11:24:32 INFO src.mouse_hider.focus_watcher: trackmania.exe focused – hot\u2011key active.
+11:24:36 INFO src.mouse_hider.focus_watcher: trackmania.exe lost focus – auto\u2011unfreeze.
+11:25:02 INFO src.mouse_hider.focus_watcher: trackmania.exe focused – hot\u2011key active.
+11:26:03 INFO src.mouse_hider.focus_watcher: trackmania.exe lost focus – auto\u2011unfreeze.
+11:26:13 INFO src.mouse_hider.focus_watcher: trackmania.exe focused – hot\u2011key active.
+11:26:39 INFO src.mouse_hider: Activation hotkey pressed
+11:26:39 INFO src.mouse_hider.mouse_freezer: Mouse frozen at [3439, 830].
+11:28:43 INFO src.mouse_hider: Activation hotkey pressed
+11:28:43 INFO src.mouse_hider.mouse_freezer: Mouse unfrozen; moved to [1720, 830].
+11:28:50 INFO src.mouse_hider.focus_watcher: trackmania.exe lost focus – auto\u2011unfreeze.
+12:08:40 INFO src.mouse_hider.config: Loading config from: config/config.json
+12:08:40 DEBUG src.mouse_hider.hotkey_handler: Starting hotkey handler for HOTKEY_SC with scan code 78
+12:08:40 DEBUG src.mouse_hider.hotkey_handler: Starting hotkey handler for DEACTIVATION_HOTKEY_SC with scan code 71
+12:08:40 INFO src.mouse_hider: Hotkeys are the same: False
+12:08:40 INFO src.mouse_hider: Ready. NumPad / toggles freeze (only while Trackmania.exe runs).
+12:08:40 INFO src.mouse_hider: Frozen \u2192 [3439, 830] | Unfrozen \u2192 [1720, 830]
+12:08:40 INFO src.mouse_hider: Exit with Ctrl+C.
+12:22:11 INFO src.mouse_hider.focus_watcher: trackmania.exe focused – hot\u2011key active.
+12:22:16 INFO src.mouse_hider.focus_watcher: trackmania.exe lost focus – auto\u2011unfreeze.
+12:22:17 INFO src.mouse_hider.focus_watcher: trackmania.exe focused – hot\u2011key active.
+12:22:19 INFO src.mouse_hider.focus_watcher: trackmania.exe lost focus – auto\u2011unfreeze.
+12:22:20 INFO src.mouse_hider.focus_watcher: trackmania.exe focused – hot\u2011key active.
+12:22:28 INFO src.mouse_hider.focus_watcher: trackmania.exe lost focus – auto\u2011unfreeze.
+12:22:31 INFO src.mouse_hider.focus_watcher: trackmania.exe focused – hot\u2011key active.
+12:22:34 INFO src.mouse_hider.focus_watcher: trackmania.exe lost focus – auto\u2011unfreeze.
+12:22:35 INFO src.mouse_hider.focus_watcher: trackmania.exe focused – hot\u2011key active.
+12:22:42 INFO src.mouse_hider.focus_watcher: trackmania.exe lost focus – auto\u2011unfreeze.
+12:23:00 INFO src.mouse_hider.focus_watcher: trackmania.exe focused – hot\u2011key active.
+12:23:19 INFO src.mouse_hider.focus_watcher: trackmania.exe lost focus – auto\u2011unfreeze.
+12:23:21 INFO src.mouse_hider.focus_watcher: trackmania.exe focused – hot\u2011key active.
+12:23:22 INFO src.mouse_hider.focus_watcher: trackmania.exe lost focus – auto\u2011unfreeze.
+12:23:23 INFO src.mouse_hider.focus_watcher: trackmania.exe focused – hot\u2011key active.
+12:23:27 INFO src.mouse_hider.focus_watcher: trackmania.exe lost focus – auto\u2011unfreeze.
+12:43:11 INFO src.mouse_hider.focus_watcher: trackmania.exe focused – hot\u2011key active.
+12:43:27 INFO src.mouse_hider: Deactivation hotkey pressed
+12:45:14 INFO src.mouse_hider.focus_watcher: trackmania.exe lost focus – auto\u2011unfreeze.
+12:47:52 INFO src.mouse_hider.focus_watcher: trackmania.exe focused – hot\u2011key active.
+12:49:12 INFO src.mouse_hider: Activation hotkey pressed
+12:49:12 INFO src.mouse_hider.mouse_freezer: Mouse frozen at [3439, 830].
+12:51:35 INFO src.mouse_hider: Deactivation hotkey pressed
+12:51:35 INFO src.mouse_hider.mouse_freezer: Mouse unfrozen; moved to [1720, 830].
+12:51:45 INFO src.mouse_hider.focus_watcher: trackmania.exe lost focus – auto\u2011unfreeze.
+13:32:16 INFO src.mouse_hider: Deactivation hotkey pressed
+13:51:03 INFO src.mouse_hider: Deactivation hotkey pressed
+13:53:16 INFO src.mouse_hider.focus_watcher: trackmania.exe focused – hot\u2011key active.
+13:53:50 INFO src.mouse_hider: Activation hotkey pressed
+13:53:50 INFO src.mouse_hider.mouse_freezer: Mouse frozen at [3439, 830].
+13:54:37 INFO src.mouse_hider: Activation hotkey pressed
+13:54:37 INFO src.mouse_hider.mouse_freezer: Mouse unfrozen; moved to [1720, 830].
+13:54:42 INFO src.mouse_hider: Activation hotkey pressed
+13:54:42 INFO src.mouse_hider.mouse_freezer: Mouse frozen at [3439, 830].
+13:56:00 INFO src.mouse_hider: Activation hotkey pressed
+13:56:00 INFO src.mouse_hider.mouse_freezer: Mouse unfrozen; moved to [1720, 830].
+13:56:01 INFO src.mouse_hider: Activation hotkey pressed
+13:56:01 INFO src.mouse_hider.mouse_freezer: Mouse frozen at [3439, 830].
+13:56:59 INFO src.mouse_hider: Activation hotkey pressed
+13:56:59 INFO src.mouse_hider.mouse_freezer: Mouse unfrozen; moved to [1720, 830].
+13:57:00 INFO src.mouse_hider: Activation hotkey pressed
+13:57:00 INFO src.mouse_hider.mouse_freezer: Mouse frozen at [3439, 830].
+13:58:16 INFO src.mouse_hider: Activation hotkey pressed
+13:58:16 INFO src.mouse_hider.mouse_freezer: Mouse unfrozen; moved to [1720, 830].
+13:58:16 INFO src.mouse_hider: Activation hotkey pressed
+13:58:16 INFO src.mouse_hider.mouse_freezer: Mouse frozen at [3439, 830].
+13:58:25 INFO src.mouse_hider: Activation hotkey pressed
+13:58:25 INFO src.mouse_hider.mouse_freezer: Mouse unfrozen; moved to [1720, 830].
+13:58:25 INFO src.mouse_hider: Activation hotkey pressed
+13:58:25 INFO src.mouse_hider.mouse_freezer: Mouse frozen at [3439, 830].
+14:00:52 INFO src.mouse_hider: Activation hotkey pressed
+14:00:52 INFO src.mouse_hider.mouse_freezer: Mouse unfrozen; moved to [1720, 830].
+14:00:52 INFO src.mouse_hider: Activation hotkey pressed
+14:00:52 INFO src.mouse_hider.mouse_freezer: Mouse frozen at [3439, 830].
+14:01:38 INFO src.mouse_hider: Activation hotkey pressed
+14:01:38 INFO src.mouse_hider.mouse_freezer: Mouse unfrozen; moved to [1720, 830].
+14:02:05 INFO src.mouse_hider: Activation hotkey pressed
+14:02:05 INFO src.mouse_hider.mouse_freezer: Mouse frozen at [3439, 830].
+14:03:12 INFO src.mouse_hider: Activation hotkey pressed
+14:03:12 INFO src.mouse_hider.mouse_freezer: Mouse unfrozen; moved to [1720, 830].
+14:03:13 INFO src.mouse_hider: Activation hotkey pressed
+14:03:13 INFO src.mouse_hider.mouse_freezer: Mouse frozen at [3439, 830].
+14:04:28 INFO src.mouse_hider: Activation hotkey pressed
+14:04:28 INFO src.mouse_hider.mouse_freezer: Mouse unfrozen; moved to [1720, 830].
+14:04:28 INFO src.mouse_hider: Activation hotkey pressed
+14:04:28 INFO src.mouse_hider.mouse_freezer: Mouse frozen at [3439, 830].
+14:10:20 INFO src.mouse_hider: Activation hotkey pressed
+14:10:20 INFO src.mouse_hider.mouse_freezer: Mouse unfrozen; moved to [1720, 830].
+14:10:20 INFO src.mouse_hider: Activation hotkey pressed
+14:10:20 INFO src.mouse_hider.mouse_freezer: Mouse frozen at [3439, 830].
+14:11:25 INFO src.mouse_hider: Activation hotkey pressed
+14:11:25 INFO src.mouse_hider.mouse_freezer: Mouse unfrozen; moved to [1720, 830].
+14:11:26 INFO src.mouse_hider: Activation hotkey pressed
+14:11:26 INFO src.mouse_hider.mouse_freezer: Mouse frozen at [3439, 830].
+14:12:48 INFO src.mouse_hider: Activation hotkey pressed
+14:12:48 INFO src.mouse_hider.mouse_freezer: Mouse unfrozen; moved to [1720, 830].
+14:12:49 INFO src.mouse_hider: Activation hotkey pressed
+14:12:49 INFO src.mouse_hider.mouse_freezer: Mouse frozen at [3439, 830].
+14:16:44 INFO src.mouse_hider: Activation hotkey pressed
+14:16:44 INFO src.mouse_hider.mouse_freezer: Mouse unfrozen; moved to [1720, 830].
+14:16:44 INFO src.mouse_hider: Activation hotkey pressed
+14:16:44 INFO src.mouse_hider.mouse_freezer: Mouse frozen at [3439, 830].
+14:18:29 INFO src.mouse_hider: Activation hotkey pressed
+14:18:29 INFO src.mouse_hider.mouse_freezer: Mouse unfrozen; moved to [1720, 830].
+14:18:30 INFO src.mouse_hider: Activation hotkey pressed
+14:18:30 INFO src.mouse_hider.mouse_freezer: Mouse frozen at [3439, 830].
+14:20:13 INFO src.mouse_hider.focus_watcher: trackmania.exe lost focus – auto\u2011unfreeze.
+14:20:13 INFO src.mouse_hider.mouse_freezer: Mouse unfrozen; moved to [1720, 830].
+14:20:33 INFO src.mouse_hider.focus_watcher: trackmania.exe focused – hot\u2011key active.
+14:20:37 INFO src.mouse_hider: Activation hotkey pressed
+14:20:37 INFO src.mouse_hider.mouse_freezer: Mouse frozen at [3439, 830].
+14:25:29 INFO src.mouse_hider: Activation hotkey pressed
+14:25:29 INFO src.mouse_hider.mouse_freezer: Mouse unfrozen; moved to [1720, 830].
+14:25:30 INFO src.mouse_hider: Activation hotkey pressed
+14:25:30 INFO src.mouse_hider.mouse_freezer: Mouse frozen at [3439, 830].
+14:27:01 INFO src.mouse_hider: Activation hotkey pressed
+14:27:01 INFO src.mouse_hider.mouse_freezer: Mouse unfrozen; moved to [1720, 830].
+14:27:28 INFO src.mouse_hider: Activation hotkey pressed
+14:27:28 INFO src.mouse_hider.mouse_freezer: Mouse frozen at [3439, 830].
+14:27:30 INFO src.mouse_hider: Activation hotkey pressed
+14:27:30 INFO src.mouse_hider.mouse_freezer: Mouse unfrozen; moved to [1720, 830].
+14:28:14 INFO src.mouse_hider: Activation hotkey pressed
+14:28:14 INFO src.mouse_hider.mouse_freezer: Mouse frozen at [3439, 830].
+14:29:13 INFO src.mouse_hider: Activation hotkey pressed
+14:29:13 INFO src.mouse_hider.mouse_freezer: Mouse unfrozen; moved to [1720, 830].
+14:29:57 INFO src.mouse_hider.focus_watcher: trackmania.exe lost focus – auto\u2011unfreeze.
+14:29:59 INFO src.mouse_hider.focus_watcher: trackmania.exe focused – hot\u2011key active.
+14:30:14 INFO src.mouse_hider.focus_watcher: trackmania.exe lost focus – auto\u2011unfreeze.
+14:30:15 INFO src.mouse_hider.focus_watcher: trackmania.exe focused – hot\u2011key active.
+14:30:19 INFO src.mouse_hider.focus_watcher: trackmania.exe lost focus – auto\u2011unfreeze.
+14:30:21 INFO src.mouse_hider.focus_watcher: trackmania.exe focused – hot\u2011key active.
+14:30:33 INFO src.mouse_hider: Activation hotkey pressed
+14:30:33 INFO src.mouse_hider.mouse_freezer: Mouse frozen at [3439, 830].
+14:32:42 INFO src.mouse_hider: Activation hotkey pressed
+14:32:42 INFO src.mouse_hider.mouse_freezer: Mouse unfrozen; moved to [1720, 830].
+14:32:44 INFO src.mouse_hider: Activation hotkey pressed
+14:32:44 INFO src.mouse_hider.mouse_freezer: Mouse frozen at [3439, 830].
+14:33:29 INFO src.mouse_hider: Activation hotkey pressed
+14:33:29 INFO src.mouse_hider.mouse_freezer: Mouse unfrozen; moved to [1720, 830].
+14:33:29 INFO src.mouse_hider: Activation hotkey pressed
+14:33:29 INFO src.mouse_hider.mouse_freezer: Mouse frozen at [3439, 830].
+14:42:49 INFO src.mouse_hider: Activation hotkey pressed
+14:42:49 INFO src.mouse_hider.mouse_freezer: Mouse unfrozen; moved to [1720, 830].
+14:42:52 INFO src.mouse_hider: Activation hotkey pressed
+14:42:52 INFO src.mouse_hider.mouse_freezer: Mouse frozen at [3439, 830].
+14:44:50 INFO src.mouse_hider: Activation hotkey pressed
+14:44:50 INFO src.mouse_hider.mouse_freezer: Mouse unfrozen; moved to [1720, 830].
+14:44:51 INFO src.mouse_hider: Activation hotkey pressed
+14:44:51 INFO src.mouse_hider.mouse_freezer: Mouse frozen at [3439, 830].
+14:45:14 INFO src.mouse_hider: Activation hotkey pressed
+14:45:14 INFO src.mouse_hider.mouse_freezer: Mouse unfrozen; moved to [1720, 830].
+14:45:16 INFO src.mouse_hider.focus_watcher: trackmania.exe lost focus – auto\u2011unfreeze.
+14:45:18 INFO src.mouse_hider.focus_watcher: trackmania.exe focused – hot\u2011key active.
+14:45:21 INFO src.mouse_hider.focus_watcher: trackmania.exe lost focus – auto\u2011unfreeze.
+14:45:31 INFO src.mouse_hider.focus_watcher: trackmania.exe focused – hot\u2011key active.
+14:45:34 INFO src.mouse_hider.focus_watcher: trackmania.exe lost focus – auto\u2011unfreeze.
+14:45:35 INFO src.mouse_hider.focus_watcher: trackmania.exe focused – hot\u2011key active.
+14:45:40 INFO src.mouse_hider.focus_watcher: trackmania.exe lost focus – auto\u2011unfreeze.
+14:45:41 INFO src.mouse_hider.focus_watcher: trackmania.exe focused – hot\u2011key active.
+14:45:45 INFO src.mouse_hider: Activation hotkey pressed
+14:45:45 INFO src.mouse_hider.mouse_freezer: Mouse frozen at [3439, 830].
+14:54:44 INFO src.mouse_hider: Activation hotkey pressed
+14:54:44 INFO src.mouse_hider.mouse_freezer: Mouse unfrozen; moved to [1720, 830].
+14:57:05 INFO src.mouse_hider: Activation hotkey pressed
+14:57:05 INFO src.mouse_hider.mouse_freezer: Mouse frozen at [3439, 830].
+14:57:05 INFO src.mouse_hider: Activation hotkey pressed
+14:57:05 INFO src.mouse_hider.mouse_freezer: Mouse unfrozen; moved to [1720, 830].
+14:57:10 INFO src.mouse_hider.focus_watcher: trackmania.exe lost focus – auto\u2011unfreeze.
+14:57:12 INFO src.mouse_hider.focus_watcher: trackmania.exe focused – hot\u2011key active.
+14:58:09 INFO src.mouse_hider.focus_watcher: trackmania.exe lost focus – auto\u2011unfreeze.
+14:58:26 INFO src.mouse_hider.focus_watcher: trackmania.exe focused – hot\u2011key active.
+14:58:26 INFO src.mouse_hider: Activation hotkey pressed
+14:58:26 INFO src.mouse_hider.mouse_freezer: Mouse frozen at [3439, 830].
+14:58:26 INFO src.mouse_hider: Activation hotkey pressed
+14:58:26 INFO src.mouse_hider.mouse_freezer: Mouse unfrozen; moved to [1720, 830].
+14:59:09 INFO src.mouse_hider: Activation hotkey pressed
+14:59:09 INFO src.mouse_hider.mouse_freezer: Mouse frozen at [3439, 830].
+15:00:17 INFO src.mouse_hider: Activation hotkey pressed
+15:00:17 INFO src.mouse_hider.mouse_freezer: Mouse unfrozen; moved to [1720, 830].
+15:00:36 INFO src.mouse_hider: Activation hotkey pressed
+15:00:36 INFO src.mouse_hider.mouse_freezer: Mouse frozen at [3439, 830].
+15:01:30 INFO src.mouse_hider: Activation hotkey pressed
+15:01:30 INFO src.mouse_hider.mouse_freezer: Mouse unfrozen; moved to [1720, 830].
+15:02:11 INFO src.mouse_hider: Activation hotkey pressed
+15:02:11 INFO src.mouse_hider.mouse_freezer: Mouse frozen at [3439, 830].
+15:06:40 INFO src.mouse_hider: Activation hotkey pressed
+15:06:40 INFO src.mouse_hider.mouse_freezer: Mouse unfrozen; moved to [1720, 830].
+15:06:41 INFO src.mouse_hider: Activation hotkey pressed
+15:06:41 INFO src.mouse_hider.mouse_freezer: Mouse frozen at [3439, 830].
+15:08:56 INFO src.mouse_hider: Activation hotkey pressed
+15:08:56 INFO src.mouse_hider.mouse_freezer: Mouse unfrozen; moved to [1720, 830].
+15:08:57 INFO src.mouse_hider: Activation hotkey pressed
+15:08:57 INFO src.mouse_hider.mouse_freezer: Mouse frozen at [3439, 830].
+15:08:59 INFO src.mouse_hider: Activation hotkey pressed
+15:08:59 INFO src.mouse_hider.mouse_freezer: Mouse unfrozen; moved to [1720, 830].
+15:08:59 INFO src.mouse_hider: Activation hotkey pressed
+15:08:59 INFO src.mouse_hider.mouse_freezer: Mouse frozen at [3439, 830].
+15:13:29 INFO src.mouse_hider: Activation hotkey pressed
+15:13:29 INFO src.mouse_hider.mouse_freezer: Mouse unfrozen; moved to [1720, 830].
+15:18:28 INFO src.mouse_hider.focus_watcher: trackmania.exe lost focus – auto\u2011unfreeze.
+15:25:17 INFO src.mouse_hider.focus_watcher: trackmania.exe focused – hot\u2011key active.
+15:25:20 INFO src.mouse_hider: Activation hotkey pressed
+15:25:20 INFO src.mouse_hider.mouse_freezer: Mouse frozen at [3439, 830].
+15:25:21 INFO src.mouse_hider: Activation hotkey pressed
+15:25:21 INFO src.mouse_hider.mouse_freezer: Mouse unfrozen; moved to [1720, 830].
+15:25:22 INFO src.mouse_hider: Activation hotkey pressed
+15:25:22 INFO src.mouse_hider.mouse_freezer: Mouse frozen at [3439, 830].
+15:25:22 INFO src.mouse_hider: Activation hotkey pressed
+15:25:22 INFO src.mouse_hider.mouse_freezer: Mouse unfrozen; moved to [1720, 830].
+15:25:23 INFO src.mouse_hider: Activation hotkey pressed
+15:25:23 INFO src.mouse_hider.mouse_freezer: Mouse frozen at [3439, 830].
+15:25:24 INFO src.mouse_hider: Activation hotkey pressed
+15:25:24 INFO src.mouse_hider.mouse_freezer: Mouse unfrozen; moved to [1720, 830].
+15:25:24 INFO src.mouse_hider: Activation hotkey pressed
+15:25:24 INFO src.mouse_hider.mouse_freezer: Mouse frozen at [3439, 830].
+15:25:24 INFO src.mouse_hider: Activation hotkey pressed
+15:25:24 INFO src.mouse_hider.mouse_freezer: Mouse unfrozen; moved to [1720, 830].
+15:25:25 INFO src.mouse_hider: Activation hotkey pressed
+15:25:25 INFO src.mouse_hider.mouse_freezer: Mouse frozen at [3439, 830].
+15:25:25 INFO src.mouse_hider: Activation hotkey pressed
+15:25:25 INFO src.mouse_hider.mouse_freezer: Mouse unfrozen; moved to [1720, 830].
+15:25:25 INFO src.mouse_hider: Activation hotkey pressed
+15:25:25 INFO src.mouse_hider.mouse_freezer: Mouse frozen at [3439, 830].
+15:25:26 INFO src.mouse_hider: Activation hotkey pressed
+15:25:26 INFO src.mouse_hider.mouse_freezer: Mouse unfrozen; moved to [1720, 830].
+15:25:26 INFO src.mouse_hider: Activation hotkey pressed
+15:25:26 INFO src.mouse_hider.mouse_freezer: Mouse frozen at [3439, 830].
+15:25:26 INFO src.mouse_hider: Activation hotkey pressed
+15:25:26 INFO src.mouse_hider.mouse_freezer: Mouse unfrozen; moved to [1720, 830].
+15:25:27 INFO src.mouse_hider: Activation hotkey pressed
+15:25:27 INFO src.mouse_hider.mouse_freezer: Mouse frozen at [3439, 830].
+15:25:27 INFO src.mouse_hider: Activation hotkey pressed
+15:25:27 INFO src.mouse_hider.mouse_freezer: Mouse unfrozen; moved to [1720, 830].
+15:25:27 INFO src.mouse_hider: Activation hotkey pressed
+15:25:27 INFO src.mouse_hider.mouse_freezer: Mouse frozen at [3439, 830].
+15:25:29 INFO src.mouse_hider: Activation hotkey pressed
+15:25:29 INFO src.mouse_hider.mouse_freezer: Mouse unfrozen; moved to [1720, 830].
+15:25:29 INFO src.mouse_hider: Activation hotkey pressed
+15:25:29 INFO src.mouse_hider.mouse_freezer: Mouse frozen at [3439, 830].
+15:25:29 INFO src.mouse_hider: Activation hotkey pressed
+15:25:29 INFO src.mouse_hider.mouse_freezer: Mouse unfrozen; moved to [1720, 830].
+15:25:30 INFO src.mouse_hider: Activation hotkey pressed
+15:25:30 INFO src.mouse_hider.mouse_freezer: Mouse frozen at [3439, 830].
+15:25:30 INFO src.mouse_hider: Activation hotkey pressed
+15:25:30 INFO src.mouse_hider.mouse_freezer: Mouse unfrozen; moved to [1720, 830].
+15:25:30 INFO src.mouse_hider: Activation hotkey pressed
+15:25:30 INFO src.mouse_hider.mouse_freezer: Mouse frozen at [3439, 830].
+15:25:30 INFO src.mouse_hider: Activation hotkey pressed
+15:25:30 INFO src.mouse_hider.mouse_freezer: Mouse unfrozen; moved to [1720, 830].
+15:25:45 INFO src.mouse_hider.focus_watcher: trackmania.exe lost focus – auto\u2011unfreeze.
+15:28:25 INFO src.mouse_hider.focus_watcher: trackmania.exe focused – hot\u2011key active.
+15:28:27 INFO src.mouse_hider: Deactivation hotkey pressed
+15:28:33 INFO src.mouse_hider.focus_watcher: trackmania.exe lost focus – auto\u2011unfreeze.
+15:28:42 INFO src.mouse_hider.focus_watcher: trackmania.exe focused – hot\u2011key active.
+15:28:48 INFO src.mouse_hider.focus_watcher: trackmania.exe lost focus – auto\u2011unfreeze.
+15:28:54 INFO src.mouse_hider.focus_watcher: trackmania.exe focused – hot\u2011key active.
+15:29:06 INFO src.mouse_hider.focus_watcher: trackmania.exe lost focus – auto\u2011unfreeze.
+15:29:13 INFO src.mouse_hider.focus_watcher: trackmania.exe focused – hot\u2011key active.
+15:29:22 INFO src.mouse_hider.focus_watcher: trackmania.exe lost focus – auto\u2011unfreeze.
+15:29:50 INFO src.mouse_hider.focus_watcher: trackmania.exe focused – hot\u2011key active.
+15:29:52 INFO src.mouse_hider.focus_watcher: trackmania.exe lost focus – auto\u2011unfreeze.
+16:51:41 INFO src.mouse_hider.focus_watcher: trackmania.exe focused – hot\u2011key active.
+16:52:21 INFO src.mouse_hider: Activation hotkey pressed
+16:52:21 INFO src.mouse_hider.mouse_freezer: Mouse frozen at [3439, 830].
+16:52:21 INFO src.mouse_hider: Activation hotkey pressed
+16:52:21 INFO src.mouse_hider.mouse_freezer: Mouse unfrozen; moved to [1720, 830].
+16:52:22 INFO src.mouse_hider: Activation hotkey pressed
+16:52:22 INFO src.mouse_hider.mouse_freezer: Mouse frozen at [3439, 830].
+16:52:27 INFO src.mouse_hider: Activation hotkey pressed
+16:52:27 INFO src.mouse_hider.mouse_freezer: Mouse unfrozen; moved to [1720, 830].
+16:52:33 INFO src.mouse_hider: Activation hotkey pressed
+16:52:33 INFO src.mouse_hider.mouse_freezer: Mouse frozen at [3439, 830].
+16:52:33 INFO src.mouse_hider: Activation hotkey pressed
+16:52:33 INFO src.mouse_hider.mouse_freezer: Mouse unfrozen; moved to [1720, 830].
+16:52:42 INFO src.mouse_hider.focus_watcher: trackmania.exe lost focus – auto\u2011unfreeze.
+16:53:02 INFO src.mouse_hider.focus_watcher: trackmania.exe focused – hot\u2011key active.
+16:53:05 INFO src.mouse_hider: Activation hotkey pressed
+16:53:05 INFO src.mouse_hider.mouse_freezer: Mouse frozen at [3439, 830].
+17:00:02 INFO src.mouse_hider: Activation hotkey pressed
+17:00:02 INFO src.mouse_hider.mouse_freezer: Mouse unfrozen; moved to [1720, 830].
+17:00:03 INFO src.mouse_hider.focus_watcher: trackmania.exe lost focus – auto\u2011unfreeze.
+17:00:05 INFO src.mouse_hider.focus_watcher: trackmania.exe focused – hot\u2011key active.
+17:00:09 INFO src.mouse_hider: Activation hotkey pressed
+17:00:09 INFO src.mouse_hider.mouse_freezer: Mouse frozen at [3439, 830].
+17:00:09 INFO src.mouse_hider: Activation hotkey pressed
+17:00:09 INFO src.mouse_hider.mouse_freezer: Mouse unfrozen; moved to [1720, 830].
+17:00:10 INFO src.mouse_hider: Activation hotkey pressed
+17:00:10 INFO src.mouse_hider.mouse_freezer: Mouse frozen at [3439, 830].
+17:01:18 INFO src.mouse_hider: Deactivation hotkey pressed
+17:01:18 INFO src.mouse_hider.mouse_freezer: Mouse unfrozen; moved to [1720, 830].
+17:01:29 INFO src.mouse_hider: Activation hotkey pressed
+17:01:29 INFO src.mouse_hider.mouse_freezer: Mouse frozen at [3439, 830].
+17:02:26 INFO src.mouse_hider: Activation hotkey pressed
+17:02:26 INFO src.mouse_hider.mouse_freezer: Mouse unfrozen; moved to [1720, 830].
+17:03:58 INFO src.mouse_hider: Activation hotkey pressed
+17:03:58 INFO src.mouse_hider.mouse_freezer: Mouse frozen at [3439, 830].
+17:08:15 INFO src.mouse_hider: Activation hotkey pressed
+17:08:15 INFO src.mouse_hider.mouse_freezer: Mouse unfrozen; moved to [1720, 830].
+17:09:05 INFO src.mouse_hider: Activation hotkey pressed
+17:09:05 INFO src.mouse_hider.mouse_freezer: Mouse frozen at [3439, 830].
+17:09:25 INFO src.mouse_hider: Deactivation hotkey pressed
+17:09:25 INFO src.mouse_hider.mouse_freezer: Mouse unfrozen; moved to [1720, 830].
+17:09:59 INFO src.mouse_hider: Activation hotkey pressed
+17:09:59 INFO src.mouse_hider.mouse_freezer: Mouse frozen at [3439, 830].
+17:10:34 INFO src.mouse_hider: Deactivation hotkey pressed
+17:10:34 INFO src.mouse_hider.mouse_freezer: Mouse unfrozen; moved to [1720, 830].
+17:12:49 INFO src.mouse_hider: Activation hotkey pressed
+17:12:49 INFO src.mouse_hider.mouse_freezer: Mouse frozen at [3439, 830].
+17:13:04 INFO src.mouse_hider.focus_watcher: trackmania.exe lost focus – auto\u2011unfreeze.
+17:13:04 INFO src.mouse_hider.mouse_freezer: Mouse unfrozen; moved to [1720, 830].
+17:13:20 INFO src.mouse_hider.focus_watcher: trackmania.exe focused – hot\u2011key active.
+17:13:26 INFO src.mouse_hider: Activation hotkey pressed
+17:13:26 INFO src.mouse_hider.mouse_freezer: Mouse frozen at [3439, 830].
+17:14:04 INFO src.mouse_hider: Activation hotkey pressed
+17:14:04 INFO src.mouse_hider.mouse_freezer: Mouse unfrozen; moved to [1720, 830].
+17:14:06 INFO src.mouse_hider.focus_watcher: trackmania.exe lost focus – auto\u2011unfreeze.
+17:14:12 INFO src.mouse_hider.focus_watcher: trackmania.exe focused – hot\u2011key active.
+17:14:15 INFO src.mouse_hider: Activation hotkey pressed
+17:14:15 INFO src.mouse_hider.mouse_freezer: Mouse frozen at [3439, 830].
+17:15:31 INFO src.mouse_hider: Deactivation hotkey pressed
+17:15:31 INFO src.mouse_hider.mouse_freezer: Mouse unfrozen; moved to [1720, 830].
+17:16:00 INFO src.mouse_hider: Activation hotkey pressed
+17:16:00 INFO src.mouse_hider.mouse_freezer: Mouse frozen at [3439, 830].
+17:17:37 INFO src.mouse_hider: Deactivation hotkey pressed
+17:17:37 INFO src.mouse_hider.mouse_freezer: Mouse unfrozen; moved to [1720, 830].
+17:17:37 INFO src.mouse_hider: Activation hotkey pressed
+17:17:37 INFO src.mouse_hider.mouse_freezer: Mouse frozen at [3439, 830].
+17:17:39 INFO src.mouse_hider: Activation hotkey pressed
+17:17:39 INFO src.mouse_hider.mouse_freezer: Mouse unfrozen; moved to [1720, 830].
+17:17:48 INFO src.mouse_hider: Activation hotkey pressed
+17:17:48 INFO src.mouse_hider.mouse_freezer: Mouse frozen at [3439, 830].
+17:18:31 INFO src.mouse_hider: Activation hotkey pressed
+17:18:31 INFO src.mouse_hider.mouse_freezer: Mouse unfrozen; moved to [1720, 830].
+17:18:32 INFO src.mouse_hider: Activation hotkey pressed
+17:18:32 INFO src.mouse_hider.mouse_freezer: Mouse frozen at [3439, 830].
+17:24:54 INFO src.mouse_hider: Deactivation hotkey pressed
+17:24:54 INFO src.mouse_hider.mouse_freezer: Mouse unfrozen; moved to [1720, 830].
+17:28:16 INFO src.mouse_hider.focus_watcher: trackmania.exe lost focus – auto\u2011unfreeze.
+17:28:19 INFO src.mouse_hider.focus_watcher: trackmania.exe focused – hot\u2011key active.
+17:28:47 INFO src.mouse_hider: Activation hotkey pressed
+17:28:47 INFO src.mouse_hider.mouse_freezer: Mouse frozen at [3439, 830].
+17:28:47 INFO src.mouse_hider: Activation hotkey pressed
+17:28:47 INFO src.mouse_hider.mouse_freezer: Mouse unfrozen; moved to [1720, 830].
+17:29:38 INFO src.mouse_hider: Activation hotkey pressed
+17:29:38 INFO src.mouse_hider.mouse_freezer: Mouse frozen at [3439, 830].
+17:29:39 INFO src.mouse_hider.focus_watcher: trackmania.exe lost focus – auto\u2011unfreeze.
+17:29:39 INFO src.mouse_hider.mouse_freezer: Mouse unfrozen; moved to [1720, 830].
+17:31:24 INFO root: Restart requested – spawning replacement instance …
+17:31:26 INFO src.mouse_hider.config: Loading config from: config/config.json
+17:31:26 DEBUG src.mouse_hider.hotkey_handler: Starting hotkey handler for HOTKEY_SC with scan code 78
+17:31:28 DEBUG src.mouse_hider.hotkey_handler: Starting hotkey handler for DEACTIVATION_HOTKEY_SC with scan code 71
+17:31:28 INFO src.mouse_hider: Hotkeys are the same: False
+17:31:28 INFO src.mouse_hider: Ready. NumPad / toggles freeze (only while Trackmania.exe runs).
+17:31:28 INFO src.mouse_hider: Frozen \u2192 [3439, 830] | Unfrozen \u2192 [1720, 830]
+17:31:28 INFO src.mouse_hider: Exit with Ctrl+C.
+17:31:49 INFO root: Restart requested – spawning replacement instance …
+17:31:49 INFO src.mouse_hider.config: Loading config from: config/config.json
+17:31:50 DEBUG src.mouse_hider.hotkey_handler: Starting hotkey handler for HOTKEY_SC with scan code 78
+17:31:51 DEBUG src.mouse_hider.hotkey_handler: Starting hotkey handler for DEACTIVATION_HOTKEY_SC with scan code 71
+17:31:51 INFO src.mouse_hider: Hotkeys are the same: False
+17:31:51 INFO src.mouse_hider: Ready. NumPad / toggles freeze (only while Trackmania.exe runs).
+17:31:51 INFO src.mouse_hider: Frozen \u2192 [3439, 830] | Unfrozen \u2192 [1720, 830]
+17:31:51 INFO src.mouse_hider: Exit with Ctrl+C.
+17:31:56 INFO root: Restart requested – spawning replacement instance …
+17:31:57 INFO src.mouse_hider.config: Loading config from: config/config.json
+17:31:57 DEBUG src.mouse_hider.hotkey_handler: Starting hotkey handler for HOTKEY_SC with scan code 78
+17:31:59 DEBUG src.mouse_hider.hotkey_handler: Starting hotkey handler for DEACTIVATION_HOTKEY_SC with scan code 71
+17:31:59 INFO src.mouse_hider: Hotkeys are the same: False
+17:31:59 INFO src.mouse_hider: Ready. NumPad / toggles freeze (only while Trackmania.exe runs).
+17:31:59 INFO src.mouse_hider: Frozen \u2192 [3439, 830] | Unfrozen \u2192 [1720, 830]
+17:31:59 INFO src.mouse_hider: Exit with Ctrl+C.
+17:32:04 INFO root: Restart requested – spawning replacement instance …
+17:32:04 INFO src.mouse_hider.config: Loading config from: config/config.json
+17:32:05 DEBUG src.mouse_hider.hotkey_handler: Starting hotkey handler for HOTKEY_SC with scan code 78
+17:32:06 DEBUG src.mouse_hider.hotkey_handler: Starting hotkey handler for DEACTIVATION_HOTKEY_SC with scan code 71
+17:32:06 INFO src.mouse_hider: Hotkeys are the same: False
+17:32:06 INFO src.mouse_hider: Ready. NumPad / toggles freeze (only while Trackmania.exe runs).
+17:32:06 INFO src.mouse_hider: Frozen \u2192 [3439, 830] | Unfrozen \u2192 [1720, 830]
+17:32:06 INFO src.mouse_hider: Exit with Ctrl+C.
+17:33:04 INFO src.mouse_hider: Deactivation hotkey pressed
+17:34:46 INFO src.mouse_hider.config: Loading config from: config/config.json
+17:34:46 DEBUG src.mouse_hider.hotkey_handler: Starting hotkey handler for HOTKEY_SC with scan code 78
+17:34:47 DEBUG src.mouse_hider.hotkey_handler: Starting hotkey handler for DEACTIVATION_HOTKEY_SC with scan code 71
+17:34:47 INFO src.mouse_hider: Hotkeys are the same: False
+17:34:47 INFO src.mouse_hider: Ready. NumPad / toggles freeze (only while Trackmania.exe runs).
+17:34:47 INFO src.mouse_hider: Frozen \u2192 [3439, 830] | Unfrozen \u2192 [1720, 830]
+17:34:47 INFO src.mouse_hider: Exit with Ctrl+C.
+17:34:57 INFO src.mouse_hider.config: Loading config from: config/config.json
+17:34:57 DEBUG src.mouse_hider.hotkey_handler: Starting hotkey handler for HOTKEY_SC with scan code 78
+17:34:58 DEBUG src.mouse_hider.hotkey_handler: Starting hotkey handler for DEACTIVATION_HOTKEY_SC with scan code 71
+17:34:58 INFO src.mouse_hider: Hotkeys are the same: False
+17:34:58 INFO src.mouse_hider: Ready. NumPad / toggles freeze (only while Trackmania.exe runs).
+17:34:58 INFO src.mouse_hider: Frozen \u2192 [3439, 830] | Unfrozen \u2192 [1720, 830]
+17:34:58 INFO src.mouse_hider: Exit with Ctrl+C.
+17:35:01 INFO src.mouse_hider.gui.config_page: Starting display key recording
+17:35:10 INFO src.mouse_hider.config: Loading config from: config/config.json
+17:35:11 DEBUG src.mouse_hider.hotkey_handler: Starting hotkey handler for HOTKEY_SC with scan code 78
+17:35:11 DEBUG src.mouse_hider.hotkey_handler: Starting hotkey handler for DEACTIVATION_HOTKEY_SC with scan code 71
+17:35:11 INFO src.mouse_hider: Hotkeys are the same: False
+17:35:11 INFO src.mouse_hider: Ready. NumPad / toggles freeze (only while Trackmania.exe runs).
+17:35:11 INFO src.mouse_hider: Frozen \u2192 [3439, 830] | Unfrozen \u2192 [1720, 830]
+17:35:11 INFO src.mouse_hider: Exit with Ctrl+C.
+17:35:14 INFO src.mouse_hider.gui.config_page: Starting display key recording
+17:35:14 INFO src.mouse_hider.gui.config_page: Stopping display key recording
+17:40:49 INFO src.mouse_hider.config: Loading config from: config/config.json
+17:40:49 DEBUG src.mouse_hider.hotkey_handler: Starting hotkey handler for HOTKEY_SC with scan code 78
+17:40:50 DEBUG src.mouse_hider.hotkey_handler: Starting hotkey handler for DEACTIVATION_HOTKEY_SC with scan code 71
+17:40:50 INFO src.mouse_hider: Hotkeys are the same: False
+17:40:50 INFO src.mouse_hider: Ready. NumPad / toggles freeze (only while Trackmania.exe runs).
+17:40:50 INFO src.mouse_hider: Frozen \u2192 [3439, 830] | Unfrozen \u2192 [1720, 830]
+17:40:50 INFO src.mouse_hider: Exit with Ctrl+C.
+17:41:52 INFO src.mouse_hider.config: Loading config from: config/config.json
+17:41:52 DEBUG src.mouse_hider.hotkey_handler: Starting hotkey handler for HOTKEY_SC with scan code 78
+17:41:53 DEBUG src.mouse_hider.hotkey_handler: Starting hotkey handler for DEACTIVATION_HOTKEY_SC with scan code 71
+17:41:53 DEBUG src.mouse_hider.hotkey_handler: Starting hotkey handler for SPACE_HOTKEY_SC with scan code 57
+17:41:53 INFO src.mouse_hider: Hotkeys are the same: False
+17:41:53 INFO src.mouse_hider: Ready. NumPad / toggles freeze (only while Trackmania.exe runs).
+17:41:53 INFO src.mouse_hider: Frozen \u2192 [3439, 830] | Unfrozen \u2192 [1720, 830]
+17:41:53 INFO src.mouse_hider: Exit with Ctrl+C.
+17:42:07 INFO src.mouse_hider.config: Loading config from: config/config.json
+17:42:08 DEBUG src.mouse_hider.hotkey_handler: Starting hotkey handler for HOTKEY_SC with scan code 78
+17:42:08 DEBUG src.mouse_hider.hotkey_handler: Starting hotkey handler for DEACTIVATION_HOTKEY_SC with scan code 71
+17:42:08 DEBUG src.mouse_hider.hotkey_handler: Starting hotkey handler for SPACE_HOTKEY_SC with scan code 57
+17:42:08 INFO src.mouse_hider: Hotkeys are the same: False
+17:42:08 INFO src.mouse_hider: Ready. NumPad / toggles freeze (only while Trackmania.exe runs).
+17:42:08 INFO src.mouse_hider: Frozen \u2192 [3439, 830] | Unfrozen \u2192 [1720, 830]
+17:42:08 INFO src.mouse_hider: Exit with Ctrl+C.
+17:42:31 INFO src.mouse_hider.config: Loading config from: config/config.json
+17:42:31 DEBUG src.mouse_hider.hotkey_handler: Starting hotkey handler for HOTKEY_SC with scan code 78
+17:42:31 DEBUG src.mouse_hider.hotkey_handler: Starting hotkey handler for DEACTIVATION_HOTKEY_SC with scan code 71
+17:42:31 DEBUG src.mouse_hider.hotkey_handler: Starting hotkey handler for SPACE_HOTKEY_SC with scan code 57
+17:42:31 INFO src.mouse_hider: Hotkeys are the same: False
+17:42:31 INFO src.mouse_hider: Ready. NumPad / toggles freeze (only while Trackmania.exe runs).
+17:42:31 INFO src.mouse_hider: Frozen \u2192 [3439, 830] | Unfrozen \u2192 [1720, 830]
+17:42:31 INFO src.mouse_hider: Exit with Ctrl+C.
+17:51:54 INFO src.mouse_hider.config: Loading config from: config/config.json
+17:51:54 DEBUG src.mouse_hider.hotkey_handler: Starting hotkey handler for HOTKEY_SC with scan code 78
+17:51:55 DEBUG src.mouse_hider.hotkey_handler: Starting hotkey handler for DEACTIVATION_HOTKEY_SC with scan code 71
+17:51:55 DEBUG src.mouse_hider.hotkey_handler: Starting hotkey handler for SPACE_HOTKEY_SC with scan code 57
+17:51:55 INFO src.mouse_hider: Hotkeys are the same: False
+17:51:55 INFO src.mouse_hider: Ready. NumPad / toggles freeze (only while Trackmania.exe runs).
+17:51:55 INFO src.mouse_hider: Frozen \u2192 [3439, 830] | Unfrozen \u2192 [1720, 830]
+17:51:55 INFO src.mouse_hider: Exit with Ctrl+C.
+17:52:00 INFO src.mouse_hider: Space hotkey pressed
+17:52:01 INFO src.mouse_hider: Space hotkey released
+17:52:02 INFO src.mouse_hider: Space hotkey pressed
+17:52:03 INFO src.mouse_hider: Space hotkey released
+17:52:04 INFO src.mouse_hider: Space hotkey pressed
+17:52:04 INFO src.mouse_hider: Space hotkey released
+17:52:20 INFO src.mouse_hider: Space hotkey pressed
+17:52:20 INFO src.mouse_hider: Space hotkey released
+17:52:21 INFO src.mouse_hider: Space hotkey pressed
+17:52:21 INFO src.mouse_hider: Space hotkey released
+17:52:21 INFO src.mouse_hider: Space hotkey pressed
+17:52:22 INFO src.mouse_hider: Space hotkey released
+17:52:22 INFO src.mouse_hider: Space hotkey pressed
+17:52:22 INFO src.mouse_hider: Space hotkey released
+17:52:22 INFO src.mouse_hider: Space hotkey pressed
+17:52:22 INFO src.mouse_hider: Space hotkey released
+17:52:22 INFO src.mouse_hider: Space hotkey pressed
+17:52:22 INFO src.mouse_hider: Space hotkey released
+17:52:22 INFO src.mouse_hider: Space hotkey pressed
+17:52:22 INFO src.mouse_hider: Space hotkey released
+17:52:36 INFO src.mouse_hider: Deactivation hotkey pressed
+17:52:36 INFO src.mouse_hider: Deactivation hotkey pressed
+17:52:45 INFO root: Restart requested – spawning replacement instance …
+17:52:46 INFO src.mouse_hider.config: Loading config from: config/config.json
+17:52:47 DEBUG src.mouse_hider.hotkey_handler: Starting hotkey handler for HOTKEY_SC with scan code 78
+17:52:47 DEBUG src.mouse_hider.hotkey_handler: Starting hotkey handler for DEACTIVATION_HOTKEY_SC with scan code 71
+17:52:47 DEBUG src.mouse_hider.hotkey_handler: Starting hotkey handler for SPACE_HOTKEY_SC with scan code 57
+17:52:47 INFO src.mouse_hider: Hotkeys are the same: False
+17:52:47 INFO src.mouse_hider: Ready. NumPad / toggles freeze (only while Trackmania.exe runs).
+17:52:47 INFO src.mouse_hider: Frozen \u2192 [3439, 830] | Unfrozen \u2192 [1720, 830]
+17:52:47 INFO src.mouse_hider: Exit with Ctrl+C.
+17:52:49 INFO src.mouse_hider.focus_watcher: trackmania.exe focused – hot\u2011key active.
+17:52:55 INFO src.mouse_hider.focus_watcher: trackmania.exe lost focus – auto\u2011unfreeze.
+17:53:01 INFO src.mouse_hider: Space hotkey pressed
+17:53:01 INFO src.mouse_hider: Space hotkey released
+17:53:06 INFO src.mouse_hider.focus_watcher: trackmania.exe focused – hot\u2011key active.
+17:53:11 INFO src.mouse_hider: Space hotkey pressed
+17:53:11 INFO src.mouse_hider: Space hotkey released
+17:53:12 INFO src.mouse_hider: Space hotkey pressed
+17:53:12 INFO src.mouse_hider: Space hotkey released
+17:53:14 INFO src.mouse_hider: Activation hotkey pressed
+17:53:14 INFO src.mouse_hider.mouse_freezer: Mouse frozen at [3439, 830].
+17:53:15 INFO src.mouse_hider: Deactivation hotkey pressed
+17:53:15 INFO src.mouse_hider.mouse_freezer: Mouse unfrozen; moved to [1720, 830].
+17:53:15 INFO src.mouse_hider: Space hotkey pressed
+17:53:16 INFO src.mouse_hider: Space hotkey released
+17:53:16 INFO src.mouse_hider: Space hotkey pressed
+17:53:16 INFO src.mouse_hider: Space hotkey released
+17:53:18 INFO src.mouse_hider: Space hotkey pressed
+17:53:18 INFO src.mouse_hider: Space hotkey released
+17:53:24 INFO src.mouse_hider: Deactivation hotkey pressed
+17:53:26 INFO src.mouse_hider: Space hotkey pressed
+17:53:26 INFO src.mouse_hider: Space hotkey released
+17:53:27 INFO src.mouse_hider: Space hotkey pressed
+17:53:27 INFO src.mouse_hider: Space hotkey released
+17:53:29 INFO src.mouse_hider: Activation hotkey pressed
+17:53:29 INFO src.mouse_hider.mouse_freezer: Mouse frozen at [3439, 830].
+17:53:29 INFO src.mouse_hider: Activation hotkey pressed
+17:53:29 INFO src.mouse_hider.mouse_freezer: Mouse unfrozen; moved to [1720, 830].
+17:53:30 INFO src.mouse_hider: Space hotkey pressed
+17:53:30 INFO src.mouse_hider: Space hotkey released
+17:53:41 INFO src.mouse_hider.focus_watcher: trackmania.exe lost focus – auto\u2011unfreeze.
+17:53:52 INFO src.mouse_hider.config: Loading config from: config/config.json
+17:53:53 DEBUG src.mouse_hider.hotkey_handler: Starting hotkey handler for HOTKEY_SC with scan code 78
+17:53:58 DEBUG src.mouse_hider.hotkey_handler: Starting hotkey handler for DEACTIVATION_HOTKEY_SC with scan code 71
+17:53:58 DEBUG src.mouse_hider.hotkey_handler: Starting hotkey handler for SPACE_HOTKEY_SC with scan code 57
+17:53:58 INFO src.mouse_hider: Hotkeys are the same: False
+17:53:58 INFO src.mouse_hider: Ready. NumPad / toggles freeze (only while Trackmania.exe runs).
+17:53:58 INFO src.mouse_hider: Frozen \u2192 [3439, 830] | Unfrozen \u2192 [1720, 830]
+17:53:58 INFO src.mouse_hider: Exit with Ctrl+C.
+17:53:58 INFO src.mouse_hider.focus_watcher: trackmania.exe focused – hot\u2011key active.
+17:53:58 INFO src.mouse_hider: Activation hotkey pressed
+17:53:58 INFO src.mouse_hider.mouse_freezer: Mouse frozen at [3439, 830].
+17:54:00 INFO src.mouse_hider: Activation hotkey pressed
+17:54:00 INFO src.mouse_hider.mouse_freezer: Mouse unfrozen; moved to [1720, 830].
+17:54:01 INFO src.mouse_hider: Activation hotkey pressed
+17:54:01 INFO src.mouse_hider.mouse_freezer: Mouse frozen at [3439, 830].
+17:54:01 INFO src.mouse_hider: Activation hotkey pressed
+17:54:01 INFO src.mouse_hider.mouse_freezer: Mouse unfrozen; moved to [1720, 830].
+17:54:05 INFO src.mouse_hider.focus_watcher: trackmania.exe lost focus – auto\u2011unfreeze.
